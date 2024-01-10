@@ -3,3 +3,9 @@ body {
     background-color:powderblue;
 
 }
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
