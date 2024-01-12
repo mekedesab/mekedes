@@ -5,14 +5,14 @@ body {
 }
 
 
-Htitle {
-    font-family: Marker Felt; 
+.Htitle {
+    font-family: "Marker Felt", fantasy ; 
     text-align: center;
     font-size: 36;
 
 }
 
-ul {
+.ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
