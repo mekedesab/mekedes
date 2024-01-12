@@ -6,12 +6,12 @@ body {
 
 
 .Htitle {
+  color:coral;
   padding: 60px;
   font-family: "Marker Felt", fantasy ; 
   text-align: center;
-  font-size: 36px;
-  color:coral;
-
+  font-size: 96px;
+ 
 }
 
 .ul {
