@@ -8,7 +8,8 @@ body {
 .Htitle {
     font-family: "Marker Felt", fantasy ; 
     text-align: center;
-    font-size: 36;
+    font-size: 36px;
+    color:coral;
 
 }
 
