@@ -19,3 +19,20 @@ body {
   margin: 0;
   padding: 0;
 }
+
+
+
+
+.footer{
+	position: relative;
+	z-index: 5;
+	background: #FFFFFF;
+	font: 1em/1.5em 'Voltaire';
+	font-size: 16px;
+	color: black;	
+	padding-top: 2%;
+	padding-left: 3%;
+	padding-right: 3%;
+	padding-bottom: 2%;
+	height: 8%;
+}
